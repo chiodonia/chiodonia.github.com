@@ -1,6 +1,6 @@
 # Chapter 1
 
-This is …
+This is a future presentation written in markdown and served directly from github using revel.js.
 
 
 ## Chapter 1.1
