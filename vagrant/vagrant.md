@@ -47,18 +47,18 @@ Create and configure lightweight, reproducible, and portable virtual development
 
 ## Links
 
-#### Vagrant
-* http://www.vagrantup.com
-* http://www.vagrantbox.es
+* Vagrant
+   * http://www.vagrantup.com
+   * http://www.vagrantbox.es
 
-#### Virtualisation
-* https://www.virtualbox.org/
+* Virtualisation
+   * https://www.virtualbox.org/
 
-#### Containers
-* https://www.docker.io/
-* http://lxc.sourceforge.net/
+* Containers (alternative to Virtualisation)
+   * https://www.docker.io/
+   * http://lxc.sourceforge.net/
 
-#### Provisioning
-  * http://www.ansibleworks.com
-  * www.opscode.com/chef/
-  * http://puppetlabs.com
+* Provisioning
+   * http://www.ansibleworks.com
+   * http://www.opscode.com/chef/
+   * http://puppetlabs.com
