@@ -22,13 +22,14 @@ Create and configure lightweight, reproducible, and portable virtual development
   * shell scripts
   * [Ansible](http://www.ansibleworks.com)
   * [Chef](www.opscode.com/chef/)
-  * [Puppet|(http://puppetlabs.com)
+  * [Puppet](http://puppetlabs.com)
 
 
 
 ## Getting started
 
 	$ vagrant init precise64 http://files.vagrantup.com/precise64.box
+	$ vi Vagrantfile
 	$ vagrant up
 	$ vi myfile.txt
 	$ vagrant ssh
@@ -46,20 +47,18 @@ Create and configure lightweight, reproducible, and portable virtual development
 
 ## Links
 
-### Vagrant
+#### Vagrant
 * http://www.vagrantup.com
 * http://www.vagrantbox.es
 
-### Virtualisation
+#### Virtualisation
 * https://www.virtualbox.org/
 
-### Containers
+#### Containers
 * https://www.docker.io/
 * http://lxc.sourceforge.net/
 
-### Provisioning
+#### Provisioning
   * http://www.ansibleworks.com
   * www.opscode.com/chef/
   * http://puppetlabs.com
-
-
